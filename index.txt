@@ -1,2 +1,3 @@
 sample check
 This is the wonderful session.
+And informative too
